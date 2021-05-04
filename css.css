@@ -1,0 +1,72 @@
+body{
+    background-image: url(foto/1ln6u2.jpg) ;
+    background-size: cover;
+    background-position: center; 
+}
+.form-box{
+    width: 500px;
+    background: rgba(0, 0, 0, 0.8);
+    margin: 12% auto;
+    padding: 50px 0;
+    color: #fff;
+    box-shadow: 0 0 20px 2px rgba(0,0,0,0.5);
+    padding: 10px 0;
+    
+}
+h1{
+    text-align: center;
+    margin-bottom: 5px;
+    color: rgb(9, 255, 0);
+}
+h4{text-align: center;
+margin-bottom: 20px;
+color: rgb(9, 255, 0);
+}
+.input-box{
+    margin: 31px auto;
+    width: 80%;
+    border-bottom: 1px solid rgb(9, 255, 0) ;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.input-box input{
+    width: 90%;
+    border: none;
+    outline: none;
+    background: transparent;
+    color:  rgb(9, 255, 0);
+}
+::placeholder{
+    color: rgb(9, 255, 0);
+    opacity: 30%;
+}
+.fa{
+    margin-right: 10px;
+}
+.login-btn{
+    margin: 40px auto 20px;
+    width: 80%;
+    display: block;
+    outline: none;
+    padding: 10px 0;
+    border: 1px solid #fff;
+    cursor:pointer;
+    background: transparent;
+    color: #fff;
+    font-size: 16px;
+}
+h3{
+    color: rgb(207, 15, 15);
+    margin-left: 300px;
+}
+.corso{
+    color: rgb(180, 27, 27);
+    margin-top: 50px;
+    text-align: center;
+}
+img{
+    border: 1px solid white;
+}
+.pagina{
+    text-align: center;
+}

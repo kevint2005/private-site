@@ -5,6 +5,7 @@ if(
 username=="ila"&& password=="mamtapecr" ||
 username=="daniele"&& password=="Mamt69" ||
 username=="mattia"&& password=="matti05" ||
+username=="andrea"&& password=="pene.21" ||
 username=="michele"&& password=="mikk05" ){
     window.location.href = 'index 2.html'
 } else{ 
